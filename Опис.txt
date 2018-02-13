@@ -1,0 +1,21 @@
+HC74138  
+A0 - B_PIN_3
+A1 - B_PIN_4  ==> Address Inputs
+A2 - B_PIN_5
+##################################
+##################################
+##################################
+E1 - B_GPIO_PIN_10
+E2 - B_GPIO_PIN_11   ==> Enable Inputs
+E3 - B_GPIO_PIN_12
+##################################
+##################################
+##################################
+O0 - C_GPIO_PIN_13
+O1 - C_GPIO_PIN_14
+O2 - C_GPIO_PIN_15
+O3 - C_GPIO_PIN_3
+O4 - C_GPIO_PIN_4    ==> Active inverted Outputs
+O5 - B_GPIO_PIN_3
+O6 - B_GPIO_PIN_4
+O7 - B_GPIO_PIN_5
